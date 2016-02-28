@@ -1,0 +1,18 @@
+[ 2016-02-27T19:06:29+08:00 ] 127.0.0.1 /index.php/Home/index/liuyan
+ERR: 非法操作:liuyan
+
+[ 2016-02-27T19:06:57+08:00 ] 127.0.0.1 /index.php/Home/liuyan/liuyan
+ERR: Syntax Error in template "E:/cwy/Home/View\Liuyan\liuyan.html"  on line 232 "&lt;img style=&quot;margin-top: -32px;margin-left: 50%;display: block;border: 1px solid #C7C7C7;&quot; class=&quot;img&quot; src=&quot;{:U('Home/Liuyan/verify')}&quot; onClick=&quot;this.src = this.src + '?' + Math.random();&quot; title=&quot;看不清楚?点击刷新验证码?&quot;&gt;"  - Unexpected ":"
+
+[ 2016-02-27T19:08:28+08:00 ] 127.0.0.1 /index.php/Home/liuyan/liuyan
+ERR: Syntax Error in template "E:/cwy/Home/View\Liuyan\liuyan.html"  on line 277 "&lt;a class=&quot;button bg&quot; href=&quot;{:U('Base/loginQq')}&quot;&gt;&lt;img height=&quot;20px&quot; src=&quot;{$smarty.const.IMG_URL}qq.png&quot; /&gt; QQ登录&lt;/a&gt;"  - Unexpected ":"
+
+[ 2016-02-27T19:09:11+08:00 ] 127.0.0.1 /index.php/Home/liuyan/%7B%20:%20U%20(%20'Home/Liuyan/verify'%20)%20%7D
+ERR: 非法操作:{ : U ( 'Home
+
+[ 2016-02-27T19:11:08+08:00 ] 127.0.0.1 /index.php/Home/said/said
+ERR: Syntax Error in template "E:/cwy/Home/View\Said\said.html"  on line 208 "&lt;a class=&quot;button bg&quot; href=&quot;{:U('Base/loginQq')}&quot;&gt;&lt;img height=&quot;20px&quot; src=&quot;{$smarty.const.IMG_URL}qq.png&quot; /&gt; QQ登录&lt;/a&gt;"  - Unexpected ":"
+
+[ 2016-02-27T19:20:50+08:00 ] 127.0.0.1 /index.php/Home/liuyan/%7B%20:%20U%20(%20'Home/Liuyan/verify'%20)%20%7D
+ERR: 非法操作:{ : U ( 'Home
+

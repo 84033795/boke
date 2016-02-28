@@ -1,0 +1,152 @@
+[ 2016-02-29T00:39:05+08:00 ] 127.0.0.1 /index.php/Admin/document/document
+ERR: 非法操作:document
+
+[ 2016-02-29T00:40:38+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456677638670
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:40:46+08:00 ] 127.0.0.1 /index.php/Admin/column/nav
+ERR: 非法操作:nav
+
+[ 2016-02-29T00:42:53+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456677773530
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:45:01+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T00:45:08+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456677908181
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:46:45+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456678005557
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:49:03+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:49:16+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T00:49:54+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456678194056
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:51:48+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:52:00+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T00:52:09+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456678329817
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:53:14+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:53:25+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T00:53:44+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456678424464
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:54:32+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T00:54:56+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T01:02:29+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456678949444
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:03:07+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:04:00+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T01:04:07+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679047539
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:04:13+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T01:04:20+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679060075
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:05:10+08:00 ] 127.0.0.1 /index.php/Admin/document/adddocument.html
+ERR: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'web_introduce' at row 1
+
+[ 2016-02-29T01:05:21+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679121793
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:05:53+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T01:06:00+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679160122
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:06:47+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:07:13+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T01:07:31+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679251827
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:08:41+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T01:08:56+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679336120
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:09:45+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:10:10+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T01:10:52+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679452106
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:10:56+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:12:14+08:00 ] 127.0.0.1 /index.php/Admin/document/adddocument.html
+ERR: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'web_text' at row 1
+
+[ 2016-02-29T01:12:22+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679542686
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:12:42+08:00 ] 127.0.0.1 /index.php/Admin/document/adddocument.html
+ERR: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'web_text' at row 1
+
+[ 2016-02-29T01:12:47+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679567420
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:13:22+08:00 ] 127.0.0.1 /index.php/Admin/document/adddocument.html
+ERR: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'web_text' at row 1
+
+[ 2016-02-29T01:13:29+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679609713
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:14:25+08:00 ] 127.0.0.1 /index.php/Admin/document/adddocument.html
+ERR: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'web_text' at row 1
+
+[ 2016-02-29T01:14:28+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679668898
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:14:44+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456679684843
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:15:38+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-29T01:15:48+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-29T02:41:19+08:00 ] 127.0.0.1 /index.php/Admin/System/home.html
+ERR: SQLSTATE[HY000] [2002] �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+
+[ 2016-02-29T02:41:41+08:00 ] 127.0.0.1 /index.php/Admin/System/info.html
+ERR: SQLSTATE[HY000] [2002] �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+

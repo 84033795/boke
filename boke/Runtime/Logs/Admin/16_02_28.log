@@ -1,0 +1,42 @@
+[ 2016-02-28T17:07:31+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456650451627
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T17:09:34+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456650574732
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T17:10:05+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456650605937
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T17:10:44+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-28T17:11:12+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456650672124
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T17:12:16+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456650736578
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T17:32:10+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456651930660
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T17:32:48+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-28T17:36:49+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456652209935
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T17:37:09+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-28T17:50:41+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456653040951
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T22:28:00+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456669680585
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T22:29:12+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456669752011
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-28T22:29:47+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456669787283
+ERR: 非法操作:{ :U ( 'Admin
+

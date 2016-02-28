@@ -1,0 +1,9 @@
+[ 2016-02-16T14:59:12+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455605952640
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-16T14:59:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include//cwy/Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-16T14:59:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455605961140
+ERR: 非法操作:{ :U ( 'Admin
+

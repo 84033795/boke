@@ -1,0 +1,40 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>网站会员管理</title>
+<link href="{$smarty.const.ADMIN_CSS_URL}base.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="{$smarty.const.ADMIN_JS_URL}member.js"></script>
+<style type="text/css">
+.rb{ border-right:1px solid #666666 }
+.tb{ border-top:1px solid #666666 }
+</style>
+</head>
+<body background='{$smarty.const.ADMIN_IMG_URL}allbg.gif' leftmargin='8' topmargin='8'>
+<form name="form2" action="{$smarty.const.__SELF__}" method="post">
+<table width="98%" border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#cfcfcf">
+  
+  <tr bgcolor="#FEFCEF" height="30" align="center"> 
+    <td width="11%">用户名</td>
+    <td width="11%">密码</td>
+    <td width="16%">email</td>
+    <td>操作</td>
+  </tr>
+<tr height="26" align="center" bgcolor="#FFFFFF" onMouseMove="javascript:this.bgColor='#FCFDEE';"
+     onMouseOut="javascript:this.bgColor='#FFFFFF';"> 
+  
+  <td>
+        <input type="text" name="new_name"> </td>
+  <td>
+        <input type="password" name="new_pwd"> </td>
+  <td>
+        <input type="text" name="new_email"> </td>  
+  <td align="center">
+    <input type="submit" value="添加管理员">
+  </td>
+</tr>
+</table>
+</form>
+</body>
+</html>

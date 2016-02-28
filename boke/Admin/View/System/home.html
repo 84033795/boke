@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>系统首页</title>
+<base target="_self">
+<link rel="stylesheet" type="text/css" href="{$smarty.const.ADMIN_CSS_URL}base.css" />
+<link rel="stylesheet" type="text/css" href="{$smarty.const.ADMIN_CSS_URL}indexbody.css" />
+</head>
+<body>
+<div>
+<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="1" background="{$smarty.const.ADMIN_IMG_URL}sp_bg.gif" style='padding:0px'></td>
+  </tr>
+</table>
+<div id='mainmsg'>
+  <div class="column" id="column1"><!--左侧开始-->    
+               
+        
+        <dl class='dbox' id="item3">
+            <dt class='lside'>
+                <div class='l'>快捷操作</div>
+            </dt>
+            <dd>
+                <div id='quickmenu'>
+                    <div class='icoitem' style='background:url({$smarty.const.ADMIN_IMG_URL}addnews.gif) 10px 3px no-repeat;'><a href="{$smarty.const.__MODULE__}/column/column">文档列表</a></div>
+                    <div class='icoitem' style='background:url({$smarty.const.ADMIN_IMG_URL}manage1.gif) 10px 3px no-repeat;'><a href="{$smarty.const.__MODULE__}/document/adddocument">内容发布</a></div>
+                    <div class='icoitem' style='background:url({$smarty.const.ADMIN_IMG_URL}manage1.gif) 10px 3px no-repeat;'><a href="{$smarty.const.__MODULE__}/column/showlist">栏目管理</a></div>
+                    <div class='icoitem' style='background:url({$smarty.const.ADMIN_IMG_URL}manage1.gif) 10px 3px no-repeat;'><a href="{$smarty.const.__MODULE__}/System/info">修改参数</a></div>
+                </div>
+            </dd>
+
+        </dl><!--快捷操作结束-->   
+        
+        <dl class='dbox' id="item5">
+            <dt class='lside'><div class='l'>程序团队</div></dt>
+            <dd class='intable'>
+                <table width="98%" class="dboxtable">
+                    <tr>
+                        <td width='25%' height='36' class='nline' style="text-align:right">主程序研发： </td>
+                        <td class='nline' style="text-align:left"><a href="#" target="_blank" style="color:blue">波仔网络工作室打造</a></td>
+                    </tr>
+                </table>
+            </dd>
+        </dl><!--开发团队结束-->
+    </div><!--左侧结束-->
+    <div class="column" id="column2" ><!-- //右边的快捷消息开始 -->
+       
+        <dl class='dbox' id="item6">
+            <dt class='lside'><div class='l'>信息统计</div></dt>
+            <dd id='listCount'>
+                <table width="100%" class="dboxtable">
+                    <tbody><tr>
+                        <td width="50%" class="nline" style="text-align:left"> 会员数： </td>
+                        <td class="nline" style="text-align:left"> {$userCount} </td>
+                    </tr>
+                    <tr>
+                        <td class="nline" style="text-align:left"> 文档数： </td>
+                        <td class="nline" style="text-align:left"> {$artCount} </td>
+                    </tr>
+                    </tbody>
+                </table>
+           </dd>
+        </dl><!--信息统计结束-->
+        <dl class='dbox' id="item7">
+            <dt class='lside'><div class='l'>最新文档</div></dt>
+            <dd id='listNews'>
+                <table width="100%" class="dboxtable">
+                {foreach $arttext as  $k => $v }
+                   <tr>
+                    <td class="nline" style="text-align:left">
+                        ss{$v.web_title}
+                    </td>
+                   
+                   </tr>
+                {/foreach}
+                </table>
+            </dd>
+        </dl><!--最新文档结束-->
+    </div>
+</div>
+</div>
+</div>
+</body>
+</html>

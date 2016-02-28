@@ -1,0 +1,942 @@
+[ 2016-02-05T21:08:06+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T21:08:44+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T21:12:59+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T21:13:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/members.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'web.web_web_admin' doesn't exist
+
+[ 2016-02-05T21:13:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/members.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'web.web_web_admin' doesn't exist
+
+[ 2016-02-05T21:13:26+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T21:14:36+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T21:42:08+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T21:42:35+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T21:45:30+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T21:46:03+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T21:48:13+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/member_view.php?id=1
+ERR: 非法操作:member_view.php
+
+[ 2016-02-05T21:56:34+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T22:04:17+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/level.html
+ERR: 非法操作:level
+
+[ 2016-02-05T22:04:52+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/level.html
+ERR: 非法操作:level
+
+[ 2016-02-05T22:04:54+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/level.html
+ERR: 非法操作:level
+
+[ 2016-02-05T22:04:57+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/level.html
+ERR: 非法操作:level
+
+[ 2016-02-05T22:10:14+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T22:10:48+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T22:10:52+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/level.html
+ERR: 非法操作:level
+
+[ 2016-02-05T22:12:08+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T22:17:14+08:00 ] 127.0.0.1 /cwy/index.php/Index/metinfo.css
+ERR: 非法操作:metinfo.css
+
+[ 2016-02-05T22:17:14+08:00 ] 127.0.0.1 /cwy/index.php/Index/jQuery1.7.2.js
+ERR: 非法操作:jQuery1.7.2.js
+
+[ 2016-02-05T22:17:14+08:00 ] 127.0.0.1 /cwy/index.php/Index/metinfo.js
+ERR: 非法操作:metinfo.js
+
+[ 2016-02-05T22:17:14+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T22:17:15+08:00 ] 127.0.0.1 /cwy/index.php/Index/metinfo.css
+ERR: 非法操作:metinfo.css
+
+[ 2016-02-05T22:17:15+08:00 ] 127.0.0.1 /cwy/index.php/Index/metinfo.js
+ERR: 非法操作:metinfo.js
+
+[ 2016-02-05T22:17:16+08:00 ] 127.0.0.1 /cwy/index.php/Index/jQuery1.7.2.js
+ERR: 非法操作:jQuery1.7.2.js
+
+[ 2016-02-05T22:17:16+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T22:17:25+08:00 ] 127.0.0.1 /cwy/index.php/Index/metinfo.css
+ERR: 非法操作:metinfo.css
+
+[ 2016-02-05T22:17:25+08:00 ] 127.0.0.1 /cwy/index.php/Index/jQuery1.7.2.js
+ERR: 非法操作:jQuery1.7.2.js
+
+[ 2016-02-05T22:17:25+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-05T22:17:25+08:00 ] 127.0.0.1 /cwy/index.php/Index/metinfo.js
+ERR: 非法操作:metinfo.js
+
+[ 2016-02-05T22:17:35+08:00 ] 127.0.0.1 /cwy/index.php/login/index.html
+ERR: 非法操作:index
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.css
+ERR: 无法加载控制器:Metinfo.css
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/jQuery1.7.2.js
+ERR: 无法加载控制器:JQuery1.7.2.js
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.js
+ERR: 无法加载控制器:Metinfo.js
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/style_2_common.css
+ERR: 无法加载控制器:Style_2_common.css
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/style_2_portal_index.css
+ERR: 无法加载控制器:Style_2_portal_index.css
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/logging.js
+ERR: 无法加载控制器:Logging.js
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide.js
+ERR: 无法加载控制器:Jquery.superslide.js
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide_1.js
+ERR: 无法加载控制器:Jquery.superslide_1.js
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/pace.js
+ERR: 无法加载控制器:Pace.js
+
+[ 2016-02-05T22:18:17+08:00 ] 127.0.0.1 /cwy/index.php/portal.js
+ERR: 无法加载控制器:Portal.js
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/wb.js
+ERR: 无法加载控制器:Wb.js
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/discuz_tips.js
+ERR: 无法加载控制器:Discuz_tips.js
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/portaldiy.css
+ERR: 无法加载控制器:Portaldiy.css
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_7.php
+ERR: 无法加载控制器:Avatar_7.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_8.php
+ERR: 无法加载控制器:Avatar_8.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_9.php
+ERR: 无法加载控制器:Avatar_9.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_13.php
+ERR: 无法加载控制器:Avatar_13.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_10.php
+ERR: 无法加载控制器:Avatar_10.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_14.php
+ERR: 无法加载控制器:Avatar_14.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_16.php
+ERR: 无法加载控制器:Avatar_16.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_15.php
+ERR: 无法加载控制器:Avatar_15.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_11.php
+ERR: 无法加载控制器:Avatar_11.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_4.php
+ERR: 无法加载控制器:Avatar_4.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_12.php
+ERR: 无法加载控制器:Avatar_12.php
+
+[ 2016-02-05T22:18:18+08:00 ] 127.0.0.1 /cwy/index.php/avatar_17.php
+ERR: 无法加载控制器:Avatar_17.php
+
+[ 2016-02-05T22:18:19+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:18:19+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:18:19+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.css
+ERR: 无法加载控制器:Metinfo.css
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.js
+ERR: 无法加载控制器:Metinfo.js
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/jQuery1.7.2.js
+ERR: 无法加载控制器:JQuery1.7.2.js
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/style_2_common.css
+ERR: 无法加载控制器:Style_2_common.css
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/style_2_portal_index.css
+ERR: 无法加载控制器:Style_2_portal_index.css
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide.js
+ERR: 无法加载控制器:Jquery.superslide.js
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/logging.js
+ERR: 无法加载控制器:Logging.js
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/portal.js
+ERR: 无法加载控制器:Portal.js
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/portaldiy.css
+ERR: 无法加载控制器:Portaldiy.css
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/pace.js
+ERR: 无法加载控制器:Pace.js
+
+[ 2016-02-05T22:18:20+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide_1.js
+ERR: 无法加载控制器:Jquery.superslide_1.js
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/discuz_tips.js
+ERR: 无法加载控制器:Discuz_tips.js
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/wb.js
+ERR: 无法加载控制器:Wb.js
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_4.php
+ERR: 无法加载控制器:Avatar_4.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_7.php
+ERR: 无法加载控制器:Avatar_7.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_8.php
+ERR: 无法加载控制器:Avatar_8.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_9.php
+ERR: 无法加载控制器:Avatar_9.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_10.php
+ERR: 无法加载控制器:Avatar_10.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_11.php
+ERR: 无法加载控制器:Avatar_11.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_12.php
+ERR: 无法加载控制器:Avatar_12.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_14.php
+ERR: 无法加载控制器:Avatar_14.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_13.php
+ERR: 无法加载控制器:Avatar_13.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_15.php
+ERR: 无法加载控制器:Avatar_15.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_16.php
+ERR: 无法加载控制器:Avatar_16.php
+
+[ 2016-02-05T22:18:21+08:00 ] 127.0.0.1 /cwy/index.php/avatar_17.php
+ERR: 无法加载控制器:Avatar_17.php
+
+[ 2016-02-05T22:18:22+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:18:22+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:18:22+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.css
+ERR: 无法加载控制器:Metinfo.css
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/jQuery1.7.2.js
+ERR: 无法加载控制器:JQuery1.7.2.js
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.js
+ERR: 无法加载控制器:Metinfo.js
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/style_2_common.css
+ERR: 无法加载控制器:Style_2_common.css
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/style_2_portal_index.css
+ERR: 无法加载控制器:Style_2_portal_index.css
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/pace.js
+ERR: 无法加载控制器:Pace.js
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide.js
+ERR: 无法加载控制器:Jquery.superslide.js
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/portaldiy.css
+ERR: 无法加载控制器:Portaldiy.css
+
+[ 2016-02-05T22:18:25+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide_1.js
+ERR: 无法加载控制器:Jquery.superslide_1.js
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/wb.js
+ERR: 无法加载控制器:Wb.js
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/portal.js
+ERR: 无法加载控制器:Portal.js
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/logging.js
+ERR: 无法加载控制器:Logging.js
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/discuz_tips.js
+ERR: 无法加载控制器:Discuz_tips.js
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_7.php
+ERR: 无法加载控制器:Avatar_7.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_9.php
+ERR: 无法加载控制器:Avatar_9.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_4.php
+ERR: 无法加载控制器:Avatar_4.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_10.php
+ERR: 无法加载控制器:Avatar_10.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_11.php
+ERR: 无法加载控制器:Avatar_11.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_12.php
+ERR: 无法加载控制器:Avatar_12.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_8.php
+ERR: 无法加载控制器:Avatar_8.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_13.php
+ERR: 无法加载控制器:Avatar_13.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_17.php
+ERR: 无法加载控制器:Avatar_17.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_14.php
+ERR: 无法加载控制器:Avatar_14.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_15.php
+ERR: 无法加载控制器:Avatar_15.php
+
+[ 2016-02-05T22:18:26+08:00 ] 127.0.0.1 /cwy/index.php/avatar_16.php
+ERR: 无法加载控制器:Avatar_16.php
+
+[ 2016-02-05T22:18:27+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:18:27+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:18:28+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.css
+ERR: 无法加载控制器:Metinfo.css
+
+[ 2016-02-05T22:18:28+08:00 ] 127.0.0.1 /cwy/index.php/jQuery1.7.2.js
+ERR: 无法加载控制器:JQuery1.7.2.js
+
+[ 2016-02-05T22:18:28+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.js
+ERR: 无法加载控制器:Metinfo.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/style_2_portal_index.css
+ERR: 无法加载控制器:Style_2_portal_index.css
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide.js
+ERR: 无法加载控制器:Jquery.superslide.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/pace.js
+ERR: 无法加载控制器:Pace.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/portaldiy.css
+ERR: 无法加载控制器:Portaldiy.css
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/logging.js
+ERR: 无法加载控制器:Logging.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide_1.js
+ERR: 无法加载控制器:Jquery.superslide_1.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/wb.js
+ERR: 无法加载控制器:Wb.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/style_2_common.css
+ERR: 无法加载控制器:Style_2_common.css
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/discuz_tips.js
+ERR: 无法加载控制器:Discuz_tips.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/portal.js
+ERR: 无法加载控制器:Portal.js
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_4.php
+ERR: 无法加载控制器:Avatar_4.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_7.php
+ERR: 无法加载控制器:Avatar_7.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_8.php
+ERR: 无法加载控制器:Avatar_8.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_9.php
+ERR: 无法加载控制器:Avatar_9.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_10.php
+ERR: 无法加载控制器:Avatar_10.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_11.php
+ERR: 无法加载控制器:Avatar_11.php
+
+[ 2016-02-05T22:18:29+08:00 ] 127.0.0.1 /cwy/index.php/avatar_12.php
+ERR: 无法加载控制器:Avatar_12.php
+
+[ 2016-02-05T22:18:30+08:00 ] 127.0.0.1 /cwy/index.php/avatar_14.php
+ERR: 无法加载控制器:Avatar_14.php
+
+[ 2016-02-05T22:18:30+08:00 ] 127.0.0.1 /cwy/index.php/avatar_16.php
+ERR: 无法加载控制器:Avatar_16.php
+
+[ 2016-02-05T22:18:30+08:00 ] 127.0.0.1 /cwy/index.php/avatar_13.php
+ERR: 无法加载控制器:Avatar_13.php
+
+[ 2016-02-05T22:18:30+08:00 ] 127.0.0.1 /cwy/index.php/avatar_15.php
+ERR: 无法加载控制器:Avatar_15.php
+
+[ 2016-02-05T22:18:30+08:00 ] 127.0.0.1 /cwy/index.php/avatar_17.php
+ERR: 无法加载控制器:Avatar_17.php
+
+[ 2016-02-05T22:18:30+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:18:30+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:18:30+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:24:06+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.css
+ERR: 无法加载控制器:Metinfo.css
+
+[ 2016-02-05T22:24:06+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.js
+ERR: 无法加载控制器:Metinfo.js
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/jQuery1.7.2.js
+ERR: 无法加载控制器:JQuery1.7.2.js
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/style_2_common.css
+ERR: 无法加载控制器:Style_2_common.css
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/style_2_portal_index.css
+ERR: 无法加载控制器:Style_2_portal_index.css
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide.js
+ERR: 无法加载控制器:Jquery.superslide.js
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/portal.js
+ERR: 无法加载控制器:Portal.js
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/portaldiy.css
+ERR: 无法加载控制器:Portaldiy.css
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/wb.js
+ERR: 无法加载控制器:Wb.js
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide_1.js
+ERR: 无法加载控制器:Jquery.superslide_1.js
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/logging.js
+ERR: 无法加载控制器:Logging.js
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/avatar_7.php
+ERR: 无法加载控制器:Avatar_7.php
+
+[ 2016-02-05T22:24:07+08:00 ] 127.0.0.1 /cwy/index.php/pace.js
+ERR: 无法加载控制器:Pace.js
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_4.php
+ERR: 无法加载控制器:Avatar_4.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/discuz_tips.js
+ERR: 无法加载控制器:Discuz_tips.js
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_8.php
+ERR: 无法加载控制器:Avatar_8.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_9.php
+ERR: 无法加载控制器:Avatar_9.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_11.php
+ERR: 无法加载控制器:Avatar_11.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_12.php
+ERR: 无法加载控制器:Avatar_12.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_15.php
+ERR: 无法加载控制器:Avatar_15.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_13.php
+ERR: 无法加载控制器:Avatar_13.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_10.php
+ERR: 无法加载控制器:Avatar_10.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_14.php
+ERR: 无法加载控制器:Avatar_14.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_16.php
+ERR: 无法加载控制器:Avatar_16.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_17.php
+ERR: 无法加载控制器:Avatar_17.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:24:08+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:24:09+08:00 ] 127.0.0.1 /cwy/index.php/avatar_4.php
+ERR: 无法加载控制器:Avatar_4.php
+
+[ 2016-02-05T22:24:09+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:24:09+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:24:09+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:24:09+08:00 ] 127.0.0.1 /cwy/index.php/avatar_7.php
+ERR: 无法加载控制器:Avatar_7.php
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.css
+ERR: 无法加载控制器:Metinfo.css
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/jQuery1.7.2.js
+ERR: 无法加载控制器:JQuery1.7.2.js
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.js
+ERR: 无法加载控制器:Metinfo.js
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/style_2_common.css
+ERR: 无法加载控制器:Style_2_common.css
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide.js
+ERR: 无法加载控制器:Jquery.superslide.js
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/portal.js
+ERR: 无法加载控制器:Portal.js
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/style_2_portal_index.css
+ERR: 无法加载控制器:Style_2_portal_index.css
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/logging.js
+ERR: 无法加载控制器:Logging.js
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/portaldiy.css
+ERR: 无法加载控制器:Portaldiy.css
+
+[ 2016-02-05T22:24:10+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide_1.js
+ERR: 无法加载控制器:Jquery.superslide_1.js
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/wb.js
+ERR: 无法加载控制器:Wb.js
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_4.php
+ERR: 无法加载控制器:Avatar_4.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/pace.js
+ERR: 无法加载控制器:Pace.js
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/discuz_tips.js
+ERR: 无法加载控制器:Discuz_tips.js
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_8.php
+ERR: 无法加载控制器:Avatar_8.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_9.php
+ERR: 无法加载控制器:Avatar_9.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_10.php
+ERR: 无法加载控制器:Avatar_10.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_11.php
+ERR: 无法加载控制器:Avatar_11.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_12.php
+ERR: 无法加载控制器:Avatar_12.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_14.php
+ERR: 无法加载控制器:Avatar_14.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_15.php
+ERR: 无法加载控制器:Avatar_15.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_13.php
+ERR: 无法加载控制器:Avatar_13.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_7.php
+ERR: 无法加载控制器:Avatar_7.php
+
+[ 2016-02-05T22:24:11+08:00 ] 127.0.0.1 /cwy/index.php/avatar_16.php
+ERR: 无法加载控制器:Avatar_16.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_17.php
+ERR: 无法加载控制器:Avatar_17.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_8.php
+ERR: 无法加载控制器:Avatar_8.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_9.php
+ERR: 无法加载控制器:Avatar_9.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_4.php
+ERR: 无法加载控制器:Avatar_4.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_11.php
+ERR: 无法加载控制器:Avatar_11.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_10.php
+ERR: 无法加载控制器:Avatar_10.php
+
+[ 2016-02-05T22:24:12+08:00 ] 127.0.0.1 /cwy/index.php/avatar_12.php
+ERR: 无法加载控制器:Avatar_12.php
+
+[ 2016-02-05T22:24:31+08:00 ] 127.0.0.1 /cwy/index.php/article-3021-1.html
+ERR: 无法加载控制器:Article-3021-1
+
+[ 2016-02-05T22:24:36+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.css
+ERR: 无法加载控制器:Metinfo.css
+
+[ 2016-02-05T22:24:36+08:00 ] 127.0.0.1 /cwy/index.php/jQuery1.7.2.js
+ERR: 无法加载控制器:JQuery1.7.2.js
+
+[ 2016-02-05T22:24:36+08:00 ] 127.0.0.1 /cwy/index.php/metinfo.js
+ERR: 无法加载控制器:Metinfo.js
+
+[ 2016-02-05T22:24:36+08:00 ] 127.0.0.1 /cwy/index.php/style_2_common.css
+ERR: 无法加载控制器:Style_2_common.css
+
+[ 2016-02-05T22:24:36+08:00 ] 127.0.0.1 /cwy/index.php/style_2_portal_index.css
+ERR: 无法加载控制器:Style_2_portal_index.css
+
+[ 2016-02-05T22:24:36+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide.js
+ERR: 无法加载控制器:Jquery.superslide.js
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/pace.js
+ERR: 无法加载控制器:Pace.js
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/portal.js
+ERR: 无法加载控制器:Portal.js
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/logging.js
+ERR: 无法加载控制器:Logging.js
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/jquery.superslide_1.js
+ERR: 无法加载控制器:Jquery.superslide_1.js
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/wb.js
+ERR: 无法加载控制器:Wb.js
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/portaldiy.css
+ERR: 无法加载控制器:Portaldiy.css
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/avatar_7.php
+ERR: 无法加载控制器:Avatar_7.php
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/avatar_8.php
+ERR: 无法加载控制器:Avatar_8.php
+
+[ 2016-02-05T22:24:37+08:00 ] 127.0.0.1 /cwy/index.php/avatar_9.php
+ERR: 无法加载控制器:Avatar_9.php
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/avatar_4.php
+ERR: 无法加载控制器:Avatar_4.php
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/discuz_tips.js
+ERR: 无法加载控制器:Discuz_tips.js
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/avatar_12.php
+ERR: 无法加载控制器:Avatar_12.php
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/avatar_13.php
+ERR: 无法加载控制器:Avatar_13.php
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/avatar_11.php
+ERR: 无法加载控制器:Avatar_11.php
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/avatar_10.php
+ERR: 无法加载控制器:Avatar_10.php
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/avatar_15.php
+ERR: 无法加载控制器:Avatar_15.php
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/avatar_16.php
+ERR: 无法加载控制器:Avatar_16.php
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/avatar_17.php
+ERR: 无法加载控制器:Avatar_17.php
+
+[ 2016-02-05T22:24:38+08:00 ] 127.0.0.1 /cwy/index.php/avatar_1.php
+ERR: 无法加载控制器:Avatar_1.php
+
+[ 2016-02-05T22:24:39+08:00 ] 127.0.0.1 /cwy/index.php/avatar_14.php
+ERR: 无法加载控制器:Avatar_14.php
+
+[ 2016-02-05T22:24:39+08:00 ] 127.0.0.1 /cwy/index.php/avatar_5.php
+ERR: 无法加载控制器:Avatar_5.php
+
+[ 2016-02-05T22:24:39+08:00 ] 127.0.0.1 /cwy/index.php/avatar_2.php
+ERR: 无法加载控制器:Avatar_2.php
+
+[ 2016-02-05T22:24:39+08:00 ] 127.0.0.1 /cwy/index.php/avatar_7.php
+ERR: 无法加载控制器:Avatar_7.php
+
+[ 2016-02-05T22:24:39+08:00 ] 127.0.0.1 /cwy/index.php/avatar_8.php
+ERR: 无法加载控制器:Avatar_8.php
+
+[ 2016-02-05T22:24:39+08:00 ] 127.0.0.1 /cwy/index.php/avatar_9.php
+ERR: 无法加载控制器:Avatar_9.php
+
+[ 2016-02-05T22:24:39+08:00 ] 127.0.0.1 /cwy/index.php/avatar_3.php
+ERR: 无法加载控制器:Avatar_3.php
+
+[ 2016-02-05T22:24:39+08:00 ] 127.0.0.1 /cwy/index.php/avatar.php
+ERR: 无法加载控制器:Avatar.php
+
+[ 2016-02-05T22:24:39+08:00 ] 127.0.0.1 /cwy/index.php/avatar_6.php
+ERR: 无法加载控制器:Avatar_6.php
+
+[ 2016-02-05T22:25:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/base.css
+ERR: 非法操作:base.css
+
+[ 2016-02-05T22:25:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/indexbody.css
+ERR: 非法操作:indexbody.css
+
+[ 2016-02-05T22:28:04+08:00 ] 127.0.0.1 /cwy/index.php/thread-9416-1-1.html
+ERR: 无法加载控制器:Thread-9416-1-1
+
+[ 2016-02-05T22:29:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include//cwy/Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-05T22:29:25+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/metinfo.css
+ERR: 非法操作:metinfo.css
+
+[ 2016-02-05T22:29:25+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/newstyle.css
+ERR: 非法操作:newstyle.css
+
+[ 2016-02-05T22:29:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/metinfo.css
+ERR: 非法操作:metinfo.css
+
+[ 2016-02-05T22:29:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/newstyle.css
+ERR: 非法操作:newstyle.css
+

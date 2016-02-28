@@ -1,0 +1,28 @@
+[ 2016-02-29T01:25:11+08:00 ] 127.0.0.1 /
+ERR: Syntax Error in template "E:/cwy/Home/View\Index\index.html"  on line 199 "&lt;strong&gt;{$sj.web_title}&lt;/strong&gt;{$sj.web_introduce|msubstr=1,30,'utf-8â€²,true}" unknown modifier "msubstr"
+
+[ 2016-02-29T01:25:38+08:00 ] 127.0.0.1 /
+ERR: Syntax Error in template "E:/cwy/Home/View\Index\index.html"  on line 199 "&lt;strong&gt;{$sj.web_title}&lt;/strong&gt;{$sj.web_introduce|msubstr=1,30}" unknown modifier "msubstr"
+
+[ 2016-02-29T01:26:51+08:00 ] 127.0.0.1 /
+ERR: Syntax Error in template "E:/cwy/Home/View\Index\index.html"  on line 199 "&lt;strong&gt;{$sj.web_title}&lt;/strong&gt;{$sj.web_introduce|substr=0,5}"  - Unexpected "=", expected one of: "}" , " "
+
+[ 2016-02-29T01:27:09+08:00 ] 127.0.0.1 /
+ERR: Syntax Error in template "E:/cwy/Home/View\Index\index.html"  on line 199 "&lt;strong&gt;{$sj.web_title}&lt;/strong&gt;{$sj.web_introduce|substr=0,5 }"  - Unexpected "=", expected one of: "}" , " "
+
+[ 2016-02-29T02:42:26+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+
+
+[ 2016-02-29T02:48:06+08:00 ] 127.0.0.1 /index.php/
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+
+
+[ 2016-02-29T02:49:00+08:00 ] 127.0.0.1 /index.php/
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+
+
+[ 2016-02-29T02:49:36+08:00 ] 127.0.0.1 /index.php/
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓĞÕıÈ·´ğ¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓĞ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+
+

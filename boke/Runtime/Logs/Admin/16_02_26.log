@@ -1,0 +1,84 @@
+[ 2016-02-26T11:59:41+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456459181203
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T12:07:56+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456459676175
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T12:08:19+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-26T12:08:23+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456459703187
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T12:11:57+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-26T12:12:00+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-26T12:39:03+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456461543657
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T12:41:08+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456461668829
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T12:41:16+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-26T12:41:59+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-26T13:01:56+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456462916952
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:02:00+08:00 ] 127.0.0.1 /index.php/Admin/include//Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-26T13:02:06+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456462926944
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:02:49+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456462969028
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:02:52+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456462972812
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:02:59+08:00 ] 127.0.0.1 /index.php/Admin/Column/nav.html
+ERR: 非法操作:nav
+
+[ 2016-02-26T13:03:38+08:00 ] 127.0.0.1 /index.php/Admin/column/column
+ERR: 非法操作:column
+
+[ 2016-02-26T13:04:40+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456463080144
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:04:44+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456463084126
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:04:45+08:00 ] 127.0.0.1 /index.php/Admin/document/catalog_main.php
+ERR: 非法操作:catalog_main.php
+
+[ 2016-02-26T13:04:48+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456463088203
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:06:12+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456463172791
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:06:42+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456463202816
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:06:43+08:00 ] 127.0.0.1 /index.php/Admin/document/__MOUDEL__/column/showlist
+ERR: 非法操作:__MOUDEL__
+
+[ 2016-02-26T13:08:14+08:00 ] 127.0.0.1 /index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1456463294479
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-26T13:08:24+08:00 ] 127.0.0.1 /index.php/Admin/Column/nav.html
+ERR: 非法操作:nav
+
+[ 2016-02-26T13:08:35+08:00 ] 127.0.0.1 /index.php/Admin/Column/nav.html
+ERR: 非法操作:nav
+
+[ 2016-02-26T13:09:35+08:00 ] 127.0.0.1 /index.php/Admin/Column/nav.html
+ERR: 非法操作:nav
+

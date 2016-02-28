@@ -1,0 +1,78 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>友情链接管理</title>
+<link href="{$smarty.const.ADMIN_CSS_URL}base.css" rel="stylesheet" type='text/css'>
+<script language='javascript'>
+function Sel(stype)
+{
+	  for(var i=0;i < document.getElementsByName('aids').length;i++)
+	  {
+		  if(stype=='all') document.getElementsByName('aids')[i].checked=true;
+		  else document.getElementsByName('aids')[i].checked=false;
+	  }
+}
+function checkSubmit()
+{
+	var str = '';
+	for(var i=0;i < document.getElementsByName('aids').length;i++)
+	{
+		  if(document.getElementsByName('aids')[i].checked){
+		  	if(str=='') str += document.getElementsByName('aids')[i].value;
+		  	else str += ',' + document.getElementsByName('aids')[i].value;
+		  }
+	}
+	if(str=='')
+	{
+		alert('你没选择任何内容！');
+		return false;
+	}
+	else
+	{
+		location="friendlink_edit.php?aids="+str+"&dopost=delall";
+	}
+}
+</script>
+</head>
+<body background='{$smarty.const.ADMIN_IMG_URL}allbg.gif' leftmargin='8' topmargin='8'>
+
+<table width="98%" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#D6D6D6">
+  <tr>
+    <td height="28" background="{$smarty.const.ADMIN_IMG_URL}tbg.gif" colspan="8" style="padding-left:10px;">
+  <div style="float:left">
+  	<b>修改友情链接</b>
+
+	</div>
+  <div style="float:right;padding-right:6px;">
+    <a href="{$smarty.const.__CONTROLLER__}/link"><u>返回友链列表</u></a>
+  </div>
+  </td>
+</tr>
+<form action="{$smarty.const.__SELF__}" method="post">
+<tr align="center" bgcolor="#FBFCE2" height="26">
+          <td width="23%">网站名称</td>
+          <td width="15%">网站链接</td>
+          <td width="15%">站长Email</td>
+          
+          <td width="15%">管理</td>
+        </tr>
+        
+          <tr align="center" bgcolor="#FFFFFF" height="26" onMouseMove="javascript:this.bgColor='#FCFDEE';"
+        	 onMouseOut="javascript:this.bgColor='#FFFFFF';">
+          <td><input type="text" name="web_name" value="{$show.web_name}"></td>
+          <td><input type="text" name="web_url" value="{$show.web_url}"></td>
+          <td><input type="text" name="web_email" value="{$show.web_email}"></td>
+          <input type="hidden" name="web_id" value="{$show.web_id}">
+          <td>
+          	<input type="submit" value="修改">
+		      </td>
+          </tr>
+   </table>
+  </td>
+</tr>
+</form>
+</table>
+</body>
+</html>

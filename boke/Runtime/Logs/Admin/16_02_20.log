@@ -1,0 +1,282 @@
+[ 2016-02-20T12:16:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455941819528
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T12:22:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/css/base.css
+ERR: 非法操作:css
+
+[ 2016-02-20T12:24:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/friendlink_add.php
+ERR: 非法操作:friendlink_add.php
+
+[ 2016-02-20T12:25:37+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/friendlink_type.php
+ERR: 非法操作:friendlink_type.php
+
+[ 2016-02-20T12:26:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/friendlink_add.php
+ERR: 非法操作:friendlink_add.php
+
+[ 2016-02-20T12:33:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/model/mychannel_edit.php?dopost=hide&id=-8
+ERR: 非法操作:mychannel_edit.php
+
+[ 2016-02-20T12:33:37+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455942817403
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T12:43:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/document.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\Document\document.html"  on line 77 "post_params: {&quot;PHPSESSID&quot;: &quot;l0d882lhu1mm4nlvjn26qi19m6&quot;, &quot;dopost&quot; : &quot;&quot;, &quot;arctype&quot; : arctype},"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2016-02-20T12:43:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/document.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\Document\document.html"  on line 415 "CKEDITOR.replace('body', {&quot;extraPlugins&quot;:&quot;dedepage,multipic,addon&quot;,&quot;toolbar&quot;:[[&quot;Source&quot;,&quot;-&quot;,&quot;Templates&quot;],[&quot;Cut&quot;,&quot;Copy&quot;,&quot;Paste&quot;,&quot;PasteText&quot;,&quot;PasteFromWord&quot;,&quot;-&quot;,&quot;Print&quot;],[&quot;Undo&quot;,&quot;Redo&quot;,&quot;-&quot;,&quot;Find&quot;,&quot;Replace&quot;,&quot;-&quot;,&quot;SelectAll&quot;,&quot;RemoveFormat&quot;],[&quot;ShowBlocks&quot;],[&quot;Image&quot;,&quot;Flash&quot;,&quot;Addon&quot;],[&quot;Maximize&quot;],&quot;\/&quot;,[&quot;Bold&quot;,&quot;Italic&quot;,&quot;Underline&quot;,&quot;Strike&quot;,&quot;-&quot;],[&quot;NumberedList&quot;,&quot;BulletedList&quot;,&quot;-&quot;,&quot;Outdent&quot;,&quot;Indent&quot;,&quot;Blockquote&quot;],[&quot;JustifyLeft&quot;,&quot;JustifyCenter&quot;,&quot;JustifyRight&quot;,&quot;JustifyBlock&quot;],[&quot;Table&quot;,&quot;HorizontalRule&quot;,&quot;Smiley&quot;,&quot;SpecialChar&quot;],[&quot;Link&quot;,&quot;Unlink&quot;,&quot;Anchor&quot;],&quot;\/&quot;,[&quot;Styles&quot;,&quot;Format&quot;,&quot;Font&quot;,&quot;FontSize&quot;],[&quot;TextColor&quot;,&quot;BGColor&quot;,&quot;MyPage&quot;,&quot;MultiPic&quot;]],&quot;height&quot;:450,&quot;skin&quot;:&quot;kama&quot;});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-02-20T13:04:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/document.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\Document\document.html"  on line 415 "CKEDITOR.replace } { } ) } { } ( } { } ) } { } 'body', } { } ) } { } {&quot;extraPlugins&quot;:&quot;dedepage,multipic,addon&quot;,&quot;toolbar&quot;:[[&quot;Source&quot;,&quot;-&quot;,&quot;Templates&quot;],[&quot;Cut&quot;,&quot;Copy&quot;,&quot;Paste&quot;,&quot;PasteText&quot;,&quot;PasteFromWord&quot;,&quot;-&quot;,&quot;Print&quot;],[&quot;Undo&quot;,&quot;Redo&quot;,&quot;-&quot;,&quot;Find&quot;,&quot;Replace&quot;,&quot;-&quot;,&quot;SelectAll&quot;,&quot;RemoveFormat&quot;],[&quot;ShowBlocks&quot;],[&quot;Image&quot;,&quot;Flash&quot;,&quot;Addon&quot;],[&quot;Maximize&quot;],&quot;\/&quot;,[&quot;Bold&quot;,&quot;Italic&quot;,&quot;Underline&quot;,&quot;Strike&quot;,&quot;-&quot;],[&quot;NumberedList&quot;,&quot;BulletedList&quot;,&quot;-&quot;,&quot;Outdent&quot;,&quot;Indent&quot;,&quot;Blockquote&quot;],[&quot;JustifyLeft&quot;,&quot;JustifyCenter&quot;,&quot;JustifyRight&quot;,&quot;JustifyBlock&quot;],[&quot;Table&quot;,&quot;HorizontalRule&quot;,&quot;Smiley&quot;,&quot;SpecialChar&quot;],[&quot;Link&quot;,&quot;Unlink&quot;,&quot;Anchor&quot;],&quot;\/&quot;,[&quot;Styles&quot;,&quot;Format&quot;,&quot;Font&quot;,&quot;FontSize&quot;],[&quot;TextColor&quot;,&quot;BGColor&quot;,&quot;MyPage&quot;,&quot;MultiPic&quot;]],&quot;height&quot;:450,&quot;skin&quot;:&quot;kama&quot;});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-02-20T13:06:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/document.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\Document\document.html"  on line 415 "CKEDITOR.replace('body', {&quot;extraPlugins&quot;:&quot;dedepage,multipic,addon&quot;,&quot;toolbar&quot;:[[&quot;Source&quot;,&quot;-&quot;,&quot;Templates&quot;],[&quot;Cut&quot;,&quot;Copy&quot;,&quot;Paste&quot;,&quot;PasteText&quot;,&quot;PasteFromWord&quot;,&quot;-&quot;,&quot;Print&quot;],[&quot;Undo&quot;,&quot;Redo&quot;,&quot;-&quot;,&quot;Find&quot;,&quot;Replace&quot;,&quot;-&quot;,&quot;SelectAll&quot;,&quot;RemoveFormat&quot;],[&quot;ShowBlocks&quot;],[&quot;Image&quot;,&quot;Flash&quot;,&quot;Addon&quot;],[&quot;Maximize&quot;],&quot;\/&quot;,[&quot;Bold&quot;,&quot;Italic&quot;,&quot;Underline&quot;,&quot;Strike&quot;,&quot;-&quot;],[&quot;NumberedList&quot;,&quot;BulletedList&quot;,&quot;-&quot;,&quot;Outdent&quot;,&quot;Indent&quot;,&quot;Blockquote&quot;],[&quot;JustifyLeft&quot;,&quot;JustifyCenter&quot;,&quot;JustifyRight&quot;,&quot;JustifyBlock&quot;],[&quot;Table&quot;,&quot;HorizontalRule&quot;,&quot;Smiley&quot;,&quot;SpecialChar&quot;],[&quot;Link&quot;,&quot;Unlink&quot;,&quot;Anchor&quot;],&quot;\/&quot;,[&quot;Styles&quot;,&quot;Format&quot;,&quot;Font&quot;,&quot;FontSize&quot;],[&quot;TextColor&quot;,&quot;BGColor&quot;,&quot;MyPage&quot;,&quot;MultiPic&quot;]],&quot;height&quot;:450,&quot;skin&quot;:&quot;kama&quot;});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/css/tb-box.css
+ERR: 非法操作:css
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/css/base.css
+ERR: 非法操作:css
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/js/main.js
+ERR: 非法操作:js
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/images/swfupload/swfupload.js
+ERR: 无法加载控制器:Images
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include/js/jquery/ui.draggable.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include/js/jquery/ui.core.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include/js/jquery/jquery.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/js/calendar/calendar.js
+ERR: 非法操作:js
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/js/tb-box.js
+ERR: 非法操作:js
+
+[ 2016-02-20T13:08:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/js/handlers.js
+ERR: 非法操作:js
+
+[ 2016-02-20T13:11:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/js/main.js
+ERR: 非法操作:js
+
+[ 2016-02-20T13:11:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/js/handlers.js
+ERR: 非法操作:js
+
+[ 2016-02-20T13:11:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include/js/jquery/ui.core.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T13:11:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/js/tb-box.js
+ERR: 非法操作:js
+
+[ 2016-02-20T13:11:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include/js/jquery/ui.draggable.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T13:11:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T13:11:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/js/calendar/calendar.js
+ERR: 非法操作:js
+
+[ 2016-02-20T13:11:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/images/swfupload/swfupload.js
+ERR: 无法加载控制器:Images
+
+[ 2016-02-20T13:11:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include/js/jquery/jquery.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T13:49:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/catalog_do.php?cid=1&channelid=1&dopost=listArchives
+ERR: 非法操作:catalog_do.php
+
+[ 2016-02-20T13:49:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/catalog_main.php
+ERR: 非法操作:catalog_main.php
+
+[ 2016-02-20T13:50:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/catalog_main.php
+ERR: 非法操作:catalog_main.php
+
+[ 2016-02-20T13:53:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455947587310
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T13:53:35+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455947615160
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T13:54:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455947671584
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T13:56:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455947769532
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T13:56:57+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455947817094
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T13:57:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455947863912
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T13:58:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455947906544
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T13:58:34+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/article_add.php
+ERR: 非法操作:article_add.php
+
+[ 2016-02-20T13:58:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455947916666
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T13:59:54+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455947994651
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T14:00:24+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455948024595
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T15:12:10+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455952330642
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T15:22:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455952963628
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T15:39:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455953989801
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T15:47:35+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455954455652
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T15:57:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/friendlink_edit.php?id=9&dopost=getedit
+ERR: 非法操作:friendlink_edit.php
+
+[ 2016-02-20T15:57:52+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/friendlink_add.php
+ERR: 非法操作:friendlink_add.php
+
+[ 2016-02-20T16:07:54+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455955674651
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T16:17:29+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/friendlink_add.php
+ERR: 非法操作:friendlink_add.php
+
+[ 2016-02-20T16:18:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455956291166
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T16:19:22+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/friendlink_add.php
+ERR: 非法操作:friendlink_add.php
+
+[ 2016-02-20T16:51:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/addlink
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_url' doesn't have a default value
+
+[ 2016-02-20T16:52:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/addlink
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_url' doesn't have a default value
+
+[ 2016-02-20T16:53:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/addlink
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_url' doesn't have a default value
+
+[ 2016-02-20T16:53:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/addlink
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_url' doesn't have a default value
+
+[ 2016-02-20T16:56:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/addlink
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_email' doesn't have a default value
+
+[ 2016-02-20T16:56:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/addlink
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_url' doesn't have a default value
+
+[ 2016-02-20T18:00:01+08:00 ] 127.0.0.1 /cwy/index.php/System/link.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\link.html"  on line 82 "{foreach $show $k=&gt;$v}"  - Unexpected "=>", expected one of: "}" , " "
+
+[ 2016-02-20T18:02:01+08:00 ] 127.0.0.1 /cwy/index.php/System/link.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\link.html"  on line 82 "{foreach $show $k=&gt;$v}"  - Unexpected "=>", expected one of: "}" , " "
+
+[ 2016-02-20T18:05:39+08:00 ] 127.0.0.1 /cwy/index.php/System/link.html
+ERR: Think\Model:assign方法不存在！
+
+[ 2016-02-20T18:05:53+08:00 ] 127.0.0.1 /cwy/index.php/System/link.html
+ERR: Think\Model:asslign方法不存在！
+
+[ 2016-02-20T18:15:25+08:00 ] 127.0.0.1 /cwy/index.php/System/friendlink_edit.php?id=9&dopost=getedit
+ERR: 非法操作:friendlink_edit.php
+
+[ 2016-02-20T18:15:31+08:00 ] 127.0.0.1 /cwy/index.php/System/friendlink_edit.php?id=9&dopost=delete
+ERR: 非法操作:friendlink_edit.php
+
+[ 2016-02-20T18:15:46+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455963346154
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:16:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455963362354
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:18:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include//cwy/Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T18:19:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include//cwy/Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-20T18:19:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455963547900
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:37:10+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455964630604
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:37:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455964634218
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:39:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455964798157
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:40:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455964858586
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:41:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455964887377
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:41:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&start=0&noCache=1455964910959
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:42:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&start=0&noCache=1455964924671
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:42:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&start=0&noCache=1455964958887
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:43:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&start=0&noCache=1455965025676
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:43:57+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&start=0&noCache=1455965037950
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T18:59:37+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455965977141
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T19:33:19+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455967999053
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T19:33:29+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&start=0&noCache=1455968009389
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T19:35:54+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455968154006
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T19:36:25+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455968185060
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T20:01:13+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455969672769
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T20:01:22+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&start=0&noCache=1455969682433
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T20:03:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455969825745
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T20:20:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455970858777
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T20:21:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=&start=0&noCache=1455970863426
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-20T20:23:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/catalog_main.php
+ERR: 非法操作:catalog_main.php
+
+[ 2016-02-20T20:23:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455971029771
+ERR: 非法操作:{ :U ( 'Admin
+

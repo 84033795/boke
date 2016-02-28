@@ -1,0 +1,15 @@
+[ 2016-02-10T09:37:54+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-10T09:38:47+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-10T09:39:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/add.html
+ERR: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'web_pwd' at row 1
+
+[ 2016-02-10T09:40:58+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+
+[ 2016-02-10T11:02:59+08:00 ] 127.0.0.1 /cwy/index.php/Index/home.html
+ERR: 非法操作:home
+

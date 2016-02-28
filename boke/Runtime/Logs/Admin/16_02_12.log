@@ -1,0 +1,57 @@
+[ 2016-02-12T10:02:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455242524807
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-12T10:02:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455242528819
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-12T10:02:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455242529847
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-12T10:02:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include//cwy/Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-12T10:02:24+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455242544205
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-12T10:11:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455243115679
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-12T10:16:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455243390177
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-12T10:50:33+08:00 ] 127.0.0.1 /cwy/index.php
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\Index\index.html"  on line 102 "&lt;div class=&quot;min&quot;&gt;&lt;iframe height=&quot;670&quot; width=&quot;100%&quot; scrolling=&quot;auto&quot; frameborder=&quot;0&quot; id=&quot;main&quot; name=&quot;main&quot; src=&quot;{:U('System/home')}&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;"  - Unexpected ":"
+
+[ 2016-02-12T10:50:50+08:00 ] 127.0.0.1 /cwy/index.php
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\Index\index.html"  on line 102 "&lt;div class=&quot;min&quot;&gt;&lt;iframe height=&quot;670&quot; width=&quot;100%&quot; scrolling=&quot;auto&quot; frameborder=&quot;0&quot; id=&quot;main&quot; name=&quot;main&quot; src=&quot;{: U ( 'System/home' ) } &quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;"  - Unexpected ": "
+
+[ 2016-02-12T10:51:03+08:00 ] 127.0.0.1 /cwy/index.php
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\Index\index.html"  on line 102 "&lt;div class=&quot;min&quot;&gt;&lt;iframe height=&quot;670&quot; width=&quot;100%&quot; scrolling=&quot;auto&quot; frameborder=&quot;0&quot; id=&quot;main&quot; name=&quot;main&quot; src=&quot; {: U ( 'System/home' ) } &quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;"  - Unexpected ": "
+
+[ 2016-02-12T10:51:39+08:00 ] 127.0.0.1 /cwy/index.php
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\Index\index.html"  on line 102 "&lt;div class=&quot;min&quot;&gt;&lt;iframe height=&quot;670&quot; width=&quot;100%&quot; scrolling=&quot;auto&quot; frameborder=&quot;0&quot; id=&quot;main&quot; name=&quot;main&quot; src=&quot; {: U ( 'System/home' ) } &quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;"  - Unexpected ": "
+
+[ 2016-02-12T10:56:47+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455245807753
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-12T10:56:52+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include//cwy/Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-12T11:11:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455246678050
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-12T11:28:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/sys_info.php
+ERR: 非法操作:sys_info.php
+
+[ 2016-02-12T11:29:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/sys_info.php
+ERR: 非法操作:sys_info.php
+
+[ 2016-02-12T11:29:47+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/sys_info.php
+ERR: 非法操作:sys_info.php
+
+[ 2016-02-12T16:18:56+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/sys_info.php
+ERR: 非法操作:sys_info.php
+
+[ 2016-02-12T16:37:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/sys_info.php
+ERR: 非法操作:sys_info.php
+

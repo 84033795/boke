@@ -1,0 +1,39 @@
+[ 2016-02-13T11:48:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/info.html
+ERR: Unable to load template file 'nkPHP/Tpl/dispatch_jump.tpl'
+
+[ 2016-02-13T12:15:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/database/database.html
+ERR: 无法加载控制器:Database
+
+[ 2016-02-13T12:15:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/database/database.html
+ERR: 无法加载控制器:Database
+
+[ 2016-02-13T12:29:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/database.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\database.html"  on line 45 "&lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;{:U('Bak/index',array('Action'=&gt;'download','file'=&gt;$row))}&quot;&gt;{$row}&lt;/a&gt;&lt;/td&gt;"  - Unexpected ":"
+
+[ 2016-02-13T12:30:42+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/database.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\database.html"  on line 46 "&lt;td&gt;{$row|getfiletime=$datadir}&lt;/td&gt;" unknown modifier "getfiletime"
+
+[ 2016-02-13T12:30:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/database.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\database.html"  on line 46 "&lt;td&gt;{$row|getfiletime=$datadir}&lt;/td&gt;" unknown modifier "getfiletime"
+
+[ 2016-02-13T12:30:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/database.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\database.html"  on line 46 "&lt;td&gt;{$row|getfiletime=$datadir}&lt;/td&gt;" unknown modifier "getfiletime"
+
+[ 2016-02-13T12:30:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/database.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\database.html"  on line 46 "&lt;td&gt;{$row|getfiletime=$datadir}&lt;/td&gt;" unknown modifier "getfiletime"
+
+[ 2016-02-13T12:31:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/database.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\database.html"  on line 47 "&lt;td&gt;{$row|getfilesize=$datadir}&lt;/td&gt;" unknown modifier "getfilesize"
+
+[ 2016-02-13T12:31:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/database.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\database.html"  on line 49 "&lt;a href=&quot;{:U('Bak/index',array('Action'=&gt;'download','file'=&gt;$row))}&quot;&gt;下载&lt;/a&gt;"  - Unexpected ":"
+
+[ 2016-02-13T12:31:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/System/database.html
+ERR: Syntax Error in template "E:/cwy/cwy/Admin/View\System\database.html"  on line 50 "&lt;a onclick=&quot;return confirm('确定将数据库还原到当前备份吗？')&quot;href=&quot;{:U('Bak/index',array('Action'=&gt;'RL','File'=&gt;$row))}&quot;&gt;还原&lt;/a&gt;"  - Unexpected ":"
+
+[ 2016-02-13T15:28:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455348529972
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-13T15:30:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455348651802
+ERR: 非法操作:{ :U ( 'Admin
+

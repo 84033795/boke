@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>无标题文档</title>
+    <link type="text/css" href="{$smarty.const.ADMIN_CSS_URL}nav.css" rel="stylesheet" />
+    <script type="text/javascript" src="{$smarty.const.ADMIN_JS_URL}jQuery1.7.2.js"></script>
+</head>
+
+<body>
+    <div class="v52fmbx_tbmax">
+
+        <table cellpadding="0" cellspacing="0" class="table">
+            <tr>
+
+                <td width="40" class="centle">&nbsp;&nbsp;<a href="{$smarty.const.__CONTROLLER__}/classadd.html" style=" display:inline-block; padding:5px 10px; border:1px solid #eee; font-size:12px; background:#333; color:#fff;">添加栏目</a></td>
+            </tr>
+            <tr>
+                <td>
+                    <table cellpadding="0" cellspacing="1" class="table neitable columntables">
+                        <tr id="list-top">
+                            <td class="list">选择</td>
+                            <td class="list">栏目id</td>
+                            <td class="list">栏目名称</td>
+                            <td class="list">操作</td>
+                        </tr>
+
+        {foreach $show as  $k => $v }
+                        <span id="25" style="width:50px;">
+	
+        <tr class="mouse click column_1" id="25">
+            <td class="list-text">
+                <input name='id' type='checkbox' id="id" value='68' />
+            </td>
+           
+            <td class="list-text blues" style="text-align:left;">
+<span type="text"  value="&nbsp;&nbsp;&nbsp;&nbsp;" /></span>
+            <input type="text" class="text nonull" style="width:20px;" value="{$v@iteration}" name="name_68" disabled />
+                       
+                </td>
+                <td class="list-text blues" style="text-align:left;">
+                     <input type="text" class="text nonull" style="width:300px;" value="{$v.web_name}" name="name_68" disabled />
+                </td>
+                <td width="" class="list-text">
+                    <div class="lista">
+                        
+                        <a href="{$smarty.const.__CONTROLLER__}/classupd/web_claid/{$v.web_claid}">修改栏目</a>|
+                        <a href="{$smarty.const.__CONTROLLER__}/classdel/web_claid/{$v.web_claid}">删除</a>|
+
+                    </div>
+                </td>
+            </tr>
+            </span>
+        {/foreach}
+            </table>
+            </td>
+            </tr>
+            <tr>
+                <td class="footer">&nbsp;</td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>

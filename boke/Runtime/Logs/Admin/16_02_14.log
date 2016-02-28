@@ -1,0 +1,21 @@
+[ 2016-02-14T13:25:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455427508752
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-14T13:25:20+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include//cwy/Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-14T13:25:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/column/catalog_main.php
+ERR: 非法操作:catalog_main.php
+
+[ 2016-02-14T13:25:37+08:00 ] 127.0.0.1 /cwy/index.php/Admin/column/archives_do.php?aid=1&dopost=editArchives
+ERR: 非法操作:archives_do.php
+
+[ 2016-02-14T13:27:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455427647936
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-14T13:28:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/document/%7B%20:U%20(%20'Admin/Document/ueditor'%20)%20%7D%20?action=config&&noCache=1455427686148
+ERR: 非法操作:{ :U ( 'Admin
+
+[ 2016-02-14T13:28:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include//cwy/Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+

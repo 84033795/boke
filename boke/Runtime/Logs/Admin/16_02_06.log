@@ -1,0 +1,273 @@
+[ 2016-02-06T13:22:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_usertype' doesn't have a default value
+
+[ 2016-02-06T13:24:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_logintime' doesn't have a default value
+
+[ 2016-02-06T13:35:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_logintime' doesn't have a default value
+
+[ 2016-02-06T13:36:25+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_userid' doesn't have a default value
+
+[ 2016-02-06T13:36:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_userid' doesn't have a default value
+
+[ 2016-02-06T13:46:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_id' doesn't have a default value
+
+[ 2016-02-06T13:48:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_id' doesn't have a default value
+
+[ 2016-02-06T13:52:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_id' doesn't have a default value
+
+[ 2016-02-06T13:52:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_id' doesn't have a default value
+
+[ 2016-02-06T15:59:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_id' doesn't have a default value
+
+[ 2016-02-06T16:08:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'web_id' doesn't have a default value
+
+[ 2016-02-06T16:10:17+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'web_usertype' cannot be null
+
+[ 2016-02-06T16:11:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'web_usertype' cannot be null
+
+[ 2016-02-06T16:13:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-02-06T16:21:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-02-06T16:25:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-02-06T16:26:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-02-06T16:27:13+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-02-06T16:27:22+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-02-06T16:27:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY'
+
+[ 2016-02-06T16:50:16+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/member_view.php?id=1
+ERR: 非法操作:member_view.php
+
+[ 2016-02-06T17:04:47+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/members.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'web.web_user' doesn't exist
+
+[ 2016-02-06T17:13:25+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: 非法操作:tianjia
+
+[ 2016-02-06T17:13:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: 非法操作:tianjia
+
+[ 2016-02-06T17:13:57+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: 非法操作:tianjia
+
+[ 2016-02-06T17:14:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: 非法操作:tianjia
+
+[ 2016-02-06T17:14:37+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: 非法操作:tianjia
+
+[ 2016-02-06T17:14:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: 非法操作:tianjia
+
+[ 2016-02-06T17:14:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/tianjia.html
+ERR: 非法操作:tianjia
+
+[ 2016-02-06T17:15:54+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/members.html
+ERR: 非法操作:members
+
+[ 2016-02-06T17:15:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/members.html
+ERR: 非法操作:members
+
+[ 2016-02-06T17:16:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 模板不存在:E:/cwy/cwy/Admin/View/Members/showlist.html
+
+[ 2016-02-06T17:16:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 模板不存在:E:/cwy/cwy/Admin/View/Members/showlist.html
+
+[ 2016-02-06T17:16:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 模板不存在:E:/cwy/cwy/Admin/View/Members/showlist.html
+
+[ 2016-02-06T17:16:57+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 无法加载控制器:Members
+
+[ 2016-02-06T17:16:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 无法加载控制器:Members
+
+[ 2016-02-06T17:17:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 模板不存在:E:/cwy/cwy/Admin/View/members/showlist.html
+
+[ 2016-02-06T17:18:23+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 模板不存在:E:/cwy/cwy/Admin/View/Members/showlist.html
+
+[ 2016-02-06T17:18:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 模板不存在:E:/cwy/cwy/Admin/View/Members/showlist.html
+
+[ 2016-02-06T17:18:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 非法操作:showlist
+
+[ 2016-02-06T17:19:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 非法操作:showlist
+
+[ 2016-02-06T17:19:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/showlist.html
+ERR: 非法操作:showlist
+
+[ 2016-02-06T17:19:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/members.html
+ERR: 模板不存在:E:/cwy/cwy/Admin/View/Members/members.html
+
+[ 2016-02-06T17:19:16+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/members.html
+ERR: 模板不存在:E:/cwy/cwy/Admin/View/Members/members.html
+
+[ 2016-02-06T20:28:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/members/__URL__/
+ERR: 非法操作:__URL__
+
+[ 2016-02-06T20:46:10+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: Think\Model:sava方法不存在！
+
+[ 2016-02-06T21:22:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/0
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:23:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/
+ERR: 非法操作:index
+
+[ 2016-02-06T21:23:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:23:25+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:25:19+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:25:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:30:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:30:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:31:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:31:20+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/0
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:31:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/include//cwy/Admin/Public/js/dedeajax2.js
+ERR: 无法加载控制器:Include
+
+[ 2016-02-06T21:32:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:33:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:34:05+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:35:25+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:35:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:36:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:39:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:42:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:42:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:42:47+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:43:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:44:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:44:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:44:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:48:16+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:50:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:50:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:51:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:52:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:53:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T21:53:22+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 0' at line 1
+
+[ 2016-02-06T21:58:29+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 1' at line 1
+
+[ 2016-02-06T22:00:19+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 1' at line 1
+
+[ 2016-02-06T22:01:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T22:01:25+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Members/update/web_id/1
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `web_id` = 1' at line 1
+
+[ 2016-02-06T22:05:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T22:14:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T22:16:23+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T22:19:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T22:20:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T22:23:15+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T22:23:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T22:27:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
+[ 2016-02-06T22:29:34+08:00 ] 127.0.0.1 /cwy/index.php/Admin/home.html
+ERR: 非法操作:index
+
